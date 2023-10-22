@@ -1,1 +1,13 @@
+Para que os scripts consigam ser rodados, são necessários a instalação de algumas bibliotecas.
+Os dados do ECMWF podem ser baixados nos formatos .grib, .grib2, e .netcdf. As bibliotecas que utilizo são as descritas abaixo. Entre parênteses estão os links para acesso das páginas de instalação de cada biblioteca.
+Além dos scripts, vou deixar um tutorial de instalação do Jupyter Notebook por meio do Anaconda; e de um tutorial para o acesso aos dados do modelo ECMWF.
 
+BIBLIOTECAS:
+- Xarray (https://docs.xarray.dev/en/latest/getting-started-guide/installing.html)
+- Matplotlib (https://matplotlib.org/stable/users/installing/index.html)
+- Numpy (https://numpy.org/install/)
+- Cartopy (https://scitools.org.uk/cartopy/docs/latest/installing.html)
+- Scipy (https://scipy.org/install/)
+- ecmwf.opendata (https://confluence.ecmwf.int/display/WEBAPI/Install+ECMWF+Web+API+Python+client+library) 
+
+BOA SORTE!!!
