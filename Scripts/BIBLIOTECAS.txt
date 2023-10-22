@@ -13,4 +13,9 @@ BIBLIOTECAS:
 - Scipy (https://scipy.org/install/)
 - ecmwf.opendata (https://confluence.ecmwf.int/display/WEBAPI/Install+ECMWF+Web+API+Python+client+library) 
 
+Além disso, para trabalhar com arquivos .grib e .grib2 faz-se necessário instalar a biblioteca cfgrib, e o ecCodes.
+- Cfgrib (https://github.com/ecmwf/cfgrib)
+- EcCodes (https://pypi.org/project/eccodes/) e (https://confluence.ecmwf.int/display/ECC/)
+
+
 BOA SORTE!!!
