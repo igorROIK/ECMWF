@@ -1,5 +1,6 @@
 Para que os scripts consigam ser rodados, são necessários a instalação de algumas bibliotecas.
-Os dados do ECMWF podem ser baixados nos formatos .grib, .grib2, e .netcdf. As bibliotecas que utilizo são as descritas abaixo. Entre parênteses estão os links para acesso das páginas de instalação de cada biblioteca.
+Os dados do ECMWF podem ser baixados nos formatos .grib, .grib2, e .netcdf. As bibliotecas que utilizo são as descritas abaixo. 
+Entre parênteses estão os links para acesso das páginas de instalação de cada biblioteca.
 Além dos scripts, vou deixar um tutorial de instalação do Jupyter Notebook por meio do Anaconda; e de um tutorial para o acesso aos dados do modelo ECMWF.
 
 BIBLIOTECAS:
