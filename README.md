@@ -9,3 +9,11 @@ ECMWF provides access to numerous variables on its website, many of which can be
 ECMWF proporciona acceso a numerosas variables en su sitio web, muchas de las cuales pueden procesarse en un entorno Python. Por lo tanto, estoy desarrollando varios scripts para procesar estos datos. A medida que los cree y adapte, los pondré a disposición en este repositorio.
 
 
+JÁ ESTÁ DISPONÍVEL OS SCRIPTS PARA PROCESSAMENTOS DAS VARIÁVEIS:
+
+- PRECIPITAÇÃO TOTAL
+- TEMPERATURA EM 2 METROS E VENTO EM 10 METROS
+- CISALHAMENTO DO VENTO NAS MAIS DIVERSAS CAMADAS
+
+OBSERVAÇÃO: OS MAPAS USADOS NOS SCRIPTS, ESTÃO DISPONÍVEIS NA PASTA 'ARQUIVOS', LÁ TAMBÉM ESTÃO AS IMAGENS AS IMAGENS GERADAS PELOS SCRIPTS.
+
